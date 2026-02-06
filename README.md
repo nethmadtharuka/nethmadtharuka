@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="Blue .png" width="100%" style="border-radius: 500%;" />
+</p>
+
+<h1 align="center">Nethma D. Tharuka</h1>
+<h3 align="center">
+  • SLIIT • Computer Science Undergraduate
+</h3>
+
 ## Hi there I'm Nethma!!👋
 
 
