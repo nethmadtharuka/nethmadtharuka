@@ -16,16 +16,22 @@
 Building **AI-powered backend systems**, **distributed software components**, and **RAG pipelines** with custom data processing and language-level systems. Focused on **workflow automation** and scalable architectures.
 ## 🚀 Projects
 
+## 🚀 Projects
+
 | Project | What It Is | Stack | Status |
 |---|---|---|---|
 | [SellBot.lk](https://github.com/nethmadtharuka/sellbot.lk.git) | Full WhatsApp e-commerce bot — browse, order, pay & track without leaving the chat | ASP.NET Core · Gemini AI · React | ✅ Live |
 | [LandEase](https://github.com/nethmadtharuka/LandEase.git) | Migration support platform — KYC, SOS alerts, service marketplace & AI assistant for new migrants | Spring Boot · React · SignalR | ✅ Live |
 | [Suhada Furniture](https://github.com/nethmadtharuka/furniture-management-system.git) | AI-powered furniture store — natural language search, 3D/AR viewer & admin dashboard | Spring Boot · Gemini AI · React | ✅ Live |
 | [RAGA AI Platform](https://github.com/nethmadtharuka/raga-ai-platform.git) | RAG system — upload docs, ask questions, get answers grounded in your own data | Spring Boot · ChromaDB · Gemini | ✅ Live |
-| [MigrateMate](https://github.com/Thejandeera/Migratemate.git) | Community-first migration app — verified helpers, escrow payments & one-tap SOS grid | React · Spring Boot · MongoDB | ✅ Live  |
-| [LoadMate](https://github.com/sakith03/student-workload-management-system.git) | Student workload & group collaboration — goals, shared whiteboard & AI workspace assistant | ASP.NET Core · React · SignalR | ✅ Live  |
-| [SyncMesh](https://github.com/PulithThewmika/syncmesh-distributed-messaging-system.git) | Distributed messaging sandbox — ZooKeeper, Lamport clocks & partition simulation | Spring Boot · ZooKeeper · Vanilla JS | ✅ Live  |
-| [TestLang](https://github.com/nethmadtharuka/TestLang--API-Testing.git) | Custom DSL for HTTP API testing — write tests in plain readable syntax | Java | ✅ Live  |
+| [MigrateMate](https://github.com/Thejandeera/Migratemate.git) | Community-first migration app — verified helpers, escrow payments & one-tap SOS grid | React · Spring Boot · MongoDB | ✅ Live |
+| [LoadMate](https://github.com/sakith03/student-workload-management-system.git) | Student workload & group collaboration — goals, shared whiteboard & AI workspace assistant | ASP.NET Core · React · SignalR | ✅ Live |
+| [SyncMesh](https://github.com/PulithThewmika/syncmesh-distributed-messaging-system.git) | Distributed messaging sandbox — ZooKeeper, Lamport clocks & partition simulation | Spring Boot · ZooKeeper · Vanilla JS | ✅ Live |
+| [MiniDB](https://github.com/nethmadtharuka/minidb.git) | Relational database engine built from scratch — SQL parser, B-Tree indexing & joins | Java | ✅ Live |
+| [TestLang](https://github.com/nethmadtharuka/TestLang--API-Testing.git) | Custom DSL for HTTP API testing — write tests in plain readable syntax | Java | ✅ Live |
+
+> 💡 **MiniDB** and **SyncMesh** are systems-level projects that demonstrate low-level engineering beyond typical full-stack work.
+
 
 My recent work: 
 -	**SellBot.lk** — WhatsApp commerce automation (ASP.NET, Gemini Vision, React) 
