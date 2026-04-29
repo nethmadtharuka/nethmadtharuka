@@ -79,7 +79,7 @@ I focus on **scalable architecture**, **AI integration**, and **shipping product
 ##   Let's Connect 
 -	**Portfolio:** [Coming Day 3] ← Check back 
 -	**Email:** nethmadtharuka@gmail.com 
--	**LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ndt2002ngl/) 
+-	**LinkedIn:** [nethmadtharuka](https://www.linkedin.com/in/ndt2002ngl/) 
 -	**GitHub:** [github.com/nethmadtharuka](https://github.com/nethmadtharuka) 
 
 ### ⚡ Fun Fact
