@@ -59,6 +59,7 @@ I focus on **scalable architecture**, **AI integration**, and **shipping product
 ### Databases & Search 
 -	**MySQL** — 3 projects, migrations, indexing, optimization 
 -	**MongoDB** — 1 project, document design 
+-	**MariaDB** — 1 project 
 -	**Vector Search** — ChromaDB, embedding storage, similarity ranking 
  
 ### DevOps & Infrastructure 
