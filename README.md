@@ -14,7 +14,6 @@
 #  About Me
 ###  Currently Working On
 Building **AI-powered backend systems**, **distributed software components**, and **RAG pipelines** with custom data processing and language-level systems. Focused on **workflow automation** and scalable architectures.
-## 🚀 Projects
 
 ## 🚀 Projects
 
