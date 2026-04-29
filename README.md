@@ -5,6 +5,9 @@
 <h1 align="center">Nethma D. Tharuka</h1>
 <h3 align="center">
   • SLIIT • Computer Science Undergraduate
+  <h3 align="center">
+  Aspiring Software Engineer | DevOps | Systems & AI Engineer | React + Spring Boot .NET + RAG 
+    </h3>
 </h3>
 
 ## Hi there I'm Nethma!!👋
