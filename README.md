@@ -26,6 +26,12 @@ Building **AI-powered backend systems**, **distributed software components**, an
 | [LoadMate](https://github.com/sakith03/student-workload-management-system.git) | Student workload & group collaboration — goals, shared whiteboard & AI workspace assistant | ASP.NET Core · React · SignalR | ✅ Live  |
 | [SyncMesh](https://github.com/PulithThewmika/syncmesh-distributed-messaging-system.git) | Distributed messaging sandbox — ZooKeeper, Lamport clocks & partition simulation | Spring Boot · ZooKeeper · Vanilla JS | ✅ Live  |
 | [TestLang](https://github.com/nethmadtharuka/TestLang--API-Testing.git) | Custom DSL for HTTP API testing — write tests in plain readable syntax | Java | ✅ Live  |
+
+My recent work: 
+-	**SellBot.lk** — WhatsApp commerce automation (ASP.NET, Gemini Vision, React) 
+-	**LandEase** — Migration support platform with real-time SOS (SignalR, Clean Architecture) 
+-	**Suhada Furniture** — AI e-commerce with 3D/AR (Spring Boot, Gemini, React 19) - **RAGA** — Production RAG system with ChromaDB & semantic search 
+I focus on **scalable architecture**, **AI integration**, and **shipping products fast**. 
 ### 👯 Open to Collaborate On
 - **Distributed Systems** & microservices architecture
 - **Database Engines** & storage optimization
