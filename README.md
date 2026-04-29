@@ -77,7 +77,7 @@ I focus on **scalable architecture**, **AI integration**, and **shipping product
 -	**Cloud APIs** — Meta WhatsApp, Google Gemini, Azure Storage 
 
 ##   Let's Connect 
--	**Portfolio:** [Coming Day 3] ← Check back 
+-	**Portfolio:** [Coming soon] ← Check back 
 -	**Email:** nethmadtharuka@gmail.com 
 -	**LinkedIn:** [nethmadtharuka](https://www.linkedin.com/in/ndt2002ngl/) 
 -	**GitHub:** [github.com/nethmadtharuka](https://github.com/nethmadtharuka) 
