@@ -11,8 +11,8 @@
 </h3>
 
 ## Hi there I'm Nethma!!👋
-# 💫 About Me
-### 🔭 Currently Working On
+#  About Me
+###  Currently Working On
 Building **AI-powered backend systems**, **distributed software components**, and **RAG pipelines** with custom data processing and language-level systems. Focused on **workflow automation** and scalable architectures.
 ## 🚀 Projects
 
