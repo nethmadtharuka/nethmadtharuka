@@ -1,94 +1,150 @@
+<h1 align="center">Hi, I'm Nethma 👋</h1>
+<h4 align="center">Building AI-powered systems, backend engines, and shipping real products</h4>
+
 <p align="center">
-  <img src="Blue .png" width="100%" style="border-radius: 500%;" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+systems;Shipping+scalable+backends;Always+learning%2C+always+building&font=Fira%20Code&center=true&width=600&height=45&color=00F7FF&vCenter=true&size=22" />
 </p>
 
-<h1 align="center">Nethma D. Tharuka</h1>
-<h3 align="center">
-  • SLIIT • Computer Science Undergraduate
-  <h3 align="center">
-  Aspiring Software Engineer | DevOps | Systems & AI Engineer | React + Spring Boot .NET + RAG 
-    </h3>
-</h3>
+---
 
-## Hi there I'm Nethma!!👋
-#  About Me
-###  Currently Working On
-Building **AI-powered backend systems**, **distributed software components**, and **RAG pipelines** with custom data processing and language-level systems. Focused on **workflow automation** and scalable architectures.
+## 🧠 About Me
 
-## 🚀 Projects
+- 🎓 Computer Science undergraduate at SLIIT
+- 🤖 Building **AI-powered backend systems**, **RAG pipelines**, and **distributed software components**
+- 🏗️ Deep into **microservices, systems-level engineering, and clean architecture**
+- 🔄 Currently building **IntelliFlow AI** — an AI-powered Business OS (ERP) for Sri Lankan SMEs
+- 🌱 Contributing to **Open-source projects**
 
-| Project | What It Is | Stack | Status |
-|---|---|---|---|
-| [SellBot.lk](https://github.com/nethmadtharuka/sellbot.lk.git) | Full WhatsApp e-commerce bot — browse, order, pay & track without leaving the chat | ASP.NET Core · Gemini AI · React | ✅ Live |
-| [LandEase](https://github.com/nethmadtharuka/LandEase.git) | Migration support platform — KYC, SOS alerts, service marketplace & AI assistant for new migrants | Spring Boot · React · SignalR | ✅ Live |
-| [Suhada Furniture](https://github.com/nethmadtharuka/furniture-management-system.git) | AI-powered furniture store — natural language search, 3D/AR viewer & admin dashboard | Spring Boot · Gemini AI · React | ✅ Live |
-| [RAGA AI Platform](https://github.com/nethmadtharuka/raga-ai-platform.git) | RAG system — upload docs, ask questions, get answers grounded in your own data | Spring Boot · ChromaDB · Gemini | ✅ Live |
-| [MigrateMate](https://github.com/Thejandeera/Migratemate.git) | Community-first migration app — verified helpers, escrow payments & one-tap SOS grid | React · Spring Boot · MongoDB | ✅ Live |
-| [LoadMate](https://github.com/sakith03/student-workload-management-system.git) | Student workload & group collaboration — goals, shared whiteboard & AI workspace assistant | ASP.NET Core · React · SignalR | ✅ Live |
-| [SyncMesh](https://github.com/PulithThewmika/syncmesh-distributed-messaging-system.git) | Distributed messaging sandbox — ZooKeeper, Lamport clocks & partition simulation | Spring Boot · ZooKeeper · Vanilla JS | ✅ Live |
-| [MiniDB](https://github.com/nethmadtharuka/minidb.git) | Relational database engine built from scratch — SQL parser, B-Tree indexing & joins | Java | ✅ Live |
-| [TestLang](https://github.com/nethmadtharuka/TestLang--API-Testing.git) | Custom DSL for HTTP API testing — write tests in plain readable syntax | Java | ✅ Live |
+---
 
-> 💡 **MiniDB** and **SyncMesh** are systems-level projects that demonstrate low-level engineering beyond typical full-stack work.
+## 🏗️ Featured Projects
+
+### 🧩 IntelliFlow AI
+> ASP.NET Core · React · FastAPI · PostgreSQL · Gemini
+Flagship AI-powered Business OS for Sri Lankan SMEs — inventory, sales/POS, CRM, procurement, delivery, finance and AI assistants in one platform.
+
+---
+
+### 📄 AI Resume Analyzer
+> Python · FastAPI · Streamlit · scikit-learn · Gemini · EasyOCR
+Analyzes a resume against a job description — match scoring, missing-keyword detection, OCR for scanned documents, and AI-generated interview questions.
+
+---
+
+### 💬 SellBot.lk
+> ASP.NET Core · Gemini AI · React
+WhatsApp commerce automation — browse, order, pay and track, all inside the chat.
+
+---
+
+### 🌍 LandEase
+> Spring Boot · React · SignalR
+Migration support platform — KYC, real-time SOS alerts, a service marketplace, and an AI assistant for new migrants.
+
+---
+
+### 🪑 Suhada Furniture
+> Spring Boot · Gemini AI · React
+AI-powered furniture store with natural language search, a 3D/AR viewer, and an admin dashboard.
+
+---
+
+### 📚 RAGA AI Platform
+> Spring Boot · ChromaDB · Gemini
+RAG system — upload your own documents, ask questions, get answers grounded in your data.
+
+---
+
+### 🧑‍🤝‍🧑 MigrateMate
+> React · Spring Boot · MongoDB
+Community-first migration app with verified helpers, escrow payments, and a one-tap SOS grid.
+
+---
+
+### 📊 LoadMate
+> ASP.NET Core · React · SignalR
+Student workload and group collaboration tool — shared goals, a shared whiteboard, and an AI workspace assistant.
+
+---
+
+### 🕸️ SyncMesh
+> Spring Boot · ZooKeeper · Vanilla JS
+Distributed messaging sandbox exploring ZooKeeper coordination, Lamport clocks, and partition simulation.
+
+---
+
+### 🗄️ MiniDB
+> Java
+A relational database engine built from scratch — SQL parser, B-Tree indexing, and joins.
+
+---
+
+### 🧪 TestLang
+> Java
+A custom DSL for HTTP API testing, letting you write tests in plain, readable syntax.
+
+---
 
 
-My recent work: 
--	**SellBot.lk** — WhatsApp commerce automation (ASP.NET, Gemini Vision, React) 
--	**LandEase** — Migration support platform with real-time SOS (SignalR, Clean Architecture) 
--	**Suhada Furniture** — AI e-commerce with 3D/AR (Spring Boot, Gemini, React 19) - **RAGA** — Production RAG system with ChromaDB & semantic search 
-I focus on **scalable architecture**, **AI integration**, and **shipping products fast**. 
-### 👯 Open to Collaborate On
-- **Distributed Systems** & microservices architecture
-- **Database Engines** & storage optimization
-- **Programming Language Design** & compiler development
-- **NLP-based Tools** & semantic processing
-- **AI-powered Web/Mobile Applications** (React, Flutter)
-- **Open-source Engineering Projects**
+## ⚙️ Tech Stack
 
-# 💻 Tech Stack:
- 
-### Backend Engineering 
--	**Java/Spring Boot** — 4 production projects, REST APIs, Security (JWT, RBAC), WebFlux 
--	**C# / .NET 8** — 2 production projects, Clean Architecture, SignalR, EF Core 
--	**Architecture** — Layered design, microservices patterns, security best practices 
- 
-### Frontend 
--	**React 19** — 4 projects, TypeScript, Vite, Tailwind, Zustand, Axios 
--	**Responsive Design** — Admin dashboards, real-time UIs, animations 
- 
-### AI & LLMs 
--	**Gemini API** — Text generation, embeddings, vision (OCR, image analysis) 
--	**RAG Pipelines** — ChromaDB, semantic search, chunking strategies 
--	**Prompt Engineering** — Structured outputs, fallback handling, cost optimization 
- 
-### Databases & Search 
--	**MySQL** — 3 projects, migrations, indexing, optimization 
--	**MongoDB** — 1 project, document design 
--	**MariaDB** — 1 project 
--	**Vector Search** — ChromaDB, embedding storage, similarity ranking 
- 
-### DevOps & Infrastructure 
--	**Docker** — Multi-stage builds, docker-compose, container optimization 
--	**CI/CD** — GitHub Actions, automated testing, deployment pipelines - **Deployment** — Railway, Vercel, Netlify, self-hosted 
- 
-### Tools & Concepts 
--	**API Security** — JWT, HMAC-SHA256, rate limiting, RBAC 
--	**Real-time Systems** — SignalR, WebSockets 
--	**Cloud APIs** — Meta WhatsApp, Google Gemini, Azure Storage 
+### Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,ts,js,python,fastapi" />
+</p>
 
-##   Let's Connect 
--	**Portfolio:** [Coming soon] ← Check back 
--	**Email:** nethmadtharuka@gmail.com 
--	**LinkedIn:** [nethmadtharuka](https://www.linkedin.com/in/ndt2002ngl/) 
--	**GitHub:** [github.com/nethmadtharuka](https://github.com/nethmadtharuka) 
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mariadb" />
+</p>
 
-### ⚡ Fun Fact
-I enjoy **building systems from the ground up**—combining _AI, backend engineering, and automation_ to understand how complex software works **end-to-end**. Nothing beats the satisfaction of seeing all the pieces come together! 🚀
+### AI & ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nethmadtharuka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nethmadtharuka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nethmadtharuka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Gemini API · RAG pipelines · ChromaDB · scikit-learn · Prompt Engineering
 
-**Building systems. Shipping products. Growing fast.**   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,vercel,netlify,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nethmadtharuka&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmadtharuka&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethmadtharuka&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nethmadtharuka&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ndt2002ngl/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:nethmadtharuka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/nethmadtharuka">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nethmadtharuka&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center"><b>Building systems. Shipping products. Growing fast.</b></p>
