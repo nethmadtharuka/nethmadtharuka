@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+<style>.n{animation:p 1.6s ease-in-out infinite}.n2{animation-delay:.5s}.n3{animation-delay:1s}@keyframes p{0%,100%{transform:scale(1)}50%{transform:scale(1.25)}}.n,.n2,.n3{transform-box:fill-box;transform-origin:center}</style>
+<g fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round"><path d="M40 22 V98 M40 70 C40 50 80 56 80 34"/></g>
+<circle cx="40" cy="22" r="14" fill="#fff"/><circle cx="40" cy="98" r="14" fill="#fff"/><circle cx="80" cy="34" r="14" fill="#fff"/>
+<g fill="none" stroke="#F05032" stroke-width="6" stroke-linecap="round"><path d="M40 22 V98 M40 70 C40 50 80 56 80 34"/></g>
+<circle class="n" cx="40" cy="22" r="9" fill="#0d1117" stroke="#F05032" stroke-width="4"/>
+<circle class="n2" cx="40" cy="98" r="9" fill="#0d1117" stroke="#F05032" stroke-width="4"/>
+<circle class="n3" cx="80" cy="34" r="9" fill="#0d1117" stroke="#00F7FF" stroke-width="4"/>
+</svg>

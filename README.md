@@ -1,126 +1,76 @@
-<h1 align="center">Hi, I'm Nethma 👋</h1>
-<h4 align="center">Building AI-powered systems, backend engines, and shipping real products</h4>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nethma%20Tharuka&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI-powered%20systems%20%7C%20Backend%20engines%20%7C%20Real%20products&descSize=16&descAlignY=60" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+systems;Shipping+scalable+backends;Always+learning%2C+always+building&font=Fira%20Code&center=true&width=600&height=45&color=00F7FF&vCenter=true&size=22" />
 </p>
 
----
-
-## 🧠 About Me
-
-- 🎓 Computer Science undergraduate at SLIIT
-- 🤖 Building **AI-powered backend systems**, **RAG pipelines**, and **distributed software components**
-- 🏗️ Deep into **microservices, systems-level engineering, and clean architecture**
-- 🔄 Currently building **IntelliFlow AI** — an AI-powered Business OS (ERP) for Sri Lankan SMEs
-- 🌱 Contributing to **Open-source projects**
-
----
-
-## 🏗️ Featured Projects
-
-### 🧩 IntelliFlow AI
-> ASP.NET Core · React · FastAPI · PostgreSQL · Gemini
-Flagship AI-powered Business OS for Sri Lankan SMEs — inventory, sales/POS, CRM, procurement, delivery, finance and AI assistants in one platform.
-
----
-
-### 📄 AI Resume Analyzer
-> Python · FastAPI · Streamlit · scikit-learn · Gemini · EasyOCR
-Analyzes a resume against a job description — match scoring, missing-keyword detection, OCR for scanned documents, and AI-generated interview questions.
-
----
-
-### 💬 SellBot.lk
-> ASP.NET Core · Gemini AI · React
-WhatsApp commerce automation — browse, order, pay and track, all inside the chat.
-
----
-
-### 🌍 LandEase
-> Spring Boot · React · SignalR
-Migration support platform — KYC, real-time SOS alerts, a service marketplace, and an AI assistant for new migrants.
-
----
-
-### 🪑 Suhada Furniture
-> Spring Boot · Gemini AI · React
-AI-powered furniture store with natural language search, a 3D/AR viewer, and an admin dashboard.
-
----
-
-### 📚 RAGA AI Platform
-> Spring Boot · ChromaDB · Gemini
-RAG system — upload your own documents, ask questions, get answers grounded in your data.
-
----
-
-### 🧑‍🤝‍🧑 MigrateMate
-> React · Spring Boot · MongoDB
-Community-first migration app with verified helpers, escrow payments, and a one-tap SOS grid.
-
----
-
-### 📊 LoadMate
-> ASP.NET Core · React · SignalR
-Student workload and group collaboration tool — shared goals, a shared whiteboard, and an AI workspace assistant.
-
----
-
-### 🕸️ SyncMesh
-> Spring Boot · ZooKeeper · Vanilla JS
-Distributed messaging sandbox exploring ZooKeeper coordination, Lamport clocks, and partition simulation.
-
----
-
-### 🗄️ MiniDB
-> Java
-A relational database engine built from scratch — SQL parser, B-Tree indexing, and joins.
-
----
-
-### 🧪 TestLang
-> Java
-A custom DSL for HTTP API testing, letting you write tests in plain, readable syntax.
-
----
-
-
-## ⚙️ Tech Stack
-
-### Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,ts,js,python,fastapi" />
+<p align="center">
+  <img src="assets/coffee.svg" height="110" />
+  <img src="assets/boy-coder.svg" height="220" />
+  <img src="assets/rocket.svg" height="110" />
 </p>
-
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mariadb" />
-</p>
-
-### AI & ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-Gemini API · RAG pipelines · ChromaDB · scikit-learn · Prompt Engineering
-
-### DevOps & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,vercel,netlify,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nethmadtharuka&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmadtharuka&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="assets/terminal.svg" height="80" />
+  <img src="assets/git.svg" height="80" />
+  <img src="assets/ai-chip.svg" height="80" />
+  <img src="assets/bug.svg" height="80" />
+  <img src="assets/heart.svg" height="80" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SLIIT-CS%20Undergraduate-0A66C2?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Made%20with-Coffee%20%26%20Code-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/nethmadtharuka?style=social" />
+  <img src="https://img.shields.io/github/stars/nethmadtharuka?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=nethmadtharuka&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
+
+---
+
+## About Me
+
+- Computer Science undergraduate at **SLIIT**
+- Building **AI-powered backends**, **RAG pipelines** and **distributed components**
+- Into **microservices, systems-level engineering and clean architecture**
+- Contributing to **open-source projects**
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,ts,js,python,fastapi&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,tensorflow,docker,githubactions,azure,vercel,linux,git&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Pipelines-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt-Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nethmadtharuka&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmadtharuka&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethmadtharuka&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nethmadtharuka&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
@@ -129,22 +79,24 @@ Gemini API · RAG pipelines · ChromaDB · scikit-learn · Prompt Engineering
 
 ---
 
-## 📬 Connect With Me
+## Fun Stuff
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ndt2002ngl/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:nethmadtharuka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/nethmadtharuka">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nethmadtharuka&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
 </p>
 
-<p align="center"><b>Building systems. Shipping products. Growing fast.</b></p>
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ndt2002ngl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:nethmadtharuka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/nethmadtharuka"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20systems.%20Shipping%20products.&fontSize=18&fontColor=ffffff&fontAlignY=65" />

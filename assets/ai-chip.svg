@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+<style>.g{animation:p 1.8s ease-in-out infinite}@keyframes p{0%,100%{opacity:.35}50%{opacity:1}}.s{transform-origin:60px 60px;animation:s 2.4s ease-in-out infinite}@keyframes s{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}</style>
+<g class="s">
+<g fill="#fff" stroke="#fff" stroke-width="12" stroke-linejoin="round"><rect x="28" y="28" width="64" height="64" rx="10"/></g>
+<g stroke="#9aa5b8" stroke-width="5" stroke-linecap="round"><path d="M42 16v12M60 16v12M78 16v12M42 92v12M60 92v12M78 92v12M16 42h12M16 60h12M16 78h12M92 42h12M92 60h12M92 78h12"/></g>
+<rect x="28" y="28" width="64" height="64" rx="10" fill="#1e2230" stroke="#00F7FF" stroke-width="3"/>
+<rect class="g" x="22" y="22" width="76" height="76" rx="14" fill="none" stroke="#00F7FF" stroke-width="2"/>
+<text x="60" y="71" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="30" fill="#00F7FF">AI</text>
+<circle class="g" cx="38" cy="38" r="2.5" fill="#7ee787"/><circle class="g" cx="82" cy="82" r="2.5" fill="#ff79c6"/>
+</g></svg>
